@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    background-color: black;
+    width: 500px;
+    height: 200px;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    text-align-last: justify;
+    text-decoration: overline;
+    text-decoration-style:wavy ;
+    text-decoration-color: navy;
+    text-transform: capitalize;
+    line-height: 50px;
+    word-spacing: 10px;
+    letter-spacing: 5px;   
+   font-family: 'Vina Sans', sans-serif;
+}
